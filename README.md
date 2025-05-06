@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 📫 How to reach me **akt9802@gmail.com**
+- 📫 How to reach me **amanthakur8952@iiitmanipur.ac.in**
 
 - ⚡ Fun fact **: I think I'm poet 🪶**
 
